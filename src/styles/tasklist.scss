@@ -107,7 +107,7 @@ section.task-list {
 
               &:checked {
                 & ~ .checkmark {
-                  background-color: var(--orange);
+                  background-color: var(--blue);
                 }
 
                 & ~ .checkmark:after {
